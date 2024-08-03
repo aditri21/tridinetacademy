@@ -1,7 +1,5 @@
-#Coaching--Learning-Managment
-
->Coaching-Learning-System is a multi-purpose, high quality eLearning template LMS (Learning management system) for teachers, instructors, education center, schools, universities to create and manage your own online course website. This template flexibility and power can help you easily create beautiful online courses, share your knowledge.
-
+Tridi Net Academy
+https://www.tridinet.id
 
 #Pages<br>
 1.Home<br>
@@ -14,14 +12,8 @@
 
 #Features<br>
 
-✔HTML5 & CSS3 <br>
-✔Pixel Perfect Design <br>
-✔Responsive Design <br>
-✔User Friendly Code<br> <br>
-✔Clean Markup<br> 
-✔Creative Design <br>
-✔Cross Browser Support <br>
-✔Powered With Bootstrap 3 <br>
+✔HTML5 & CSS3 & Javascript & Bootstrap
+
 
 
 #Source & Credits<br> 
